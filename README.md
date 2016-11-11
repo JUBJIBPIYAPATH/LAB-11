@@ -15,17 +15,24 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-1.png">
 </p>
 
+![](https://github.com/JUBJIBPIYAPATH/LAB-11/blob/master/11.01.PNG?raw=true)
+
 ### การระบายสีด้วย HatchBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
  <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-2.png">
 </p>
 
+![](https://github.com/JUBJIBPIYAPATH/LAB-11/blob/master/11.02.PNG?raw=true)
+
 ### การระบายสีด้วย TextureBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-3.png">
 </p>
+
+![](https://github.com/JUBJIBPIYAPATH/LAB-11/blob/master/11.03.PNG?raw=true)
+
 **หมายเหตุ** ชื่อรูปในบรรทัดที่ 22 ให้เปลี่ยนเป็นที่ตั้งจริงของรูปที่นักศึกษาใช้
 
 ### การระบายสีด้วย TextureBrush
@@ -44,6 +51,8 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-6.png">
 </p>
 
+![](https://github.com/JUBJIBPIYAPATH/LAB-11/blob/master/11.04.PNG?raw=true)
+
 ### การระบายสีด้วย Path Gradient Brush
 
 การระบายสีด้วย Path Gradient Brush เป็นการไล่เฉดสีตาม path ที่กำหนด ในโปรแกรมตัวอย่างนี้จะวาดวงรีและไล่เฉดสีจากด้านในออกสู่ด้านนอก
@@ -59,6 +68,7 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-8.png">
 </p>
 
+![](https://github.com/JUBJIBPIYAPATH/LAB-11/blob/master/11.05.PNG?raw=true)
 
 ###แบบทดสอบ 
 ให้เลื่อนจุดศูนย์กลางและปรับเปลี่ยนสี ให้ได้รูปดังนี้
